@@ -2,7 +2,7 @@
 # A demo to show [ReScript](https://github.com/rescript-lang/rescript-compiler) with React under 1K
 
 
-# Simplicity
+# Simplicity is the virtue
 
 - There are only 3 directories under `node_modules`, the [compiler](./node_modules/bs-platform), the [bundler](./node_modules/esbuild) and [@rescript/react](./node_modules/@rescript/react), no node_modules black hole.
 
@@ -21,6 +21,3 @@ It is *self-contained*, we treat the well established libraries: React and React
 npx bsb -make-world && node ./bundle.js
 ```
 
-# TODO
-
-We will investigate how to integrate the build system with bundler better.
