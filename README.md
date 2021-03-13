@@ -1,5 +1,5 @@
 
-# A demo to show ReScript with React under 1K
+# A demo to show [ReScript](https://github.com/rescript-lang/rescript-compiler) with React under 1K
 
 
 # Simplicity
@@ -14,6 +14,7 @@ It is *self-contained*, we treat the well established libraries: React and React
 ![image](./screen.png)
 
 - It scales. The ReScript build system can handle more than 10K files in a repo around 1~200ms.
+
 
 # Build
 ```
