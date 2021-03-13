@@ -1,0 +1,11 @@
+{
+  "name": "rescript-react-demo",
+  "version": "0.1.0",
+  "sources": {
+    "dir" : "src",
+    "subdirs" : true
+  },
+  "bs-dependencies": ["@rescript/react"],
+  "package-specs":{"module":"es6","in-source":true},
+  "reason": {"react-jsx" : 3}
+}
